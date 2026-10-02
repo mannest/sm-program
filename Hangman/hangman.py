@@ -1,4 +1,4 @@
-import word
+import Hangman.word as word
 import random
 
 #importing and picking an external word.
