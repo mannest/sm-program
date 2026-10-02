@@ -4,7 +4,6 @@ import random
 #importing and picking an external word.
 word_list = word.word
 random_word = word_list[random.randint(0,len(word_list)-1)]
-random_word = "trumma"
 
 #Constants
 Guessed_letter = []
